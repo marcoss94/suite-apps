@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "application_status": {
+      "id": 10,
+      "name": "Published",
+      "published": true
+    },
+    "client_name": "planning",
+    "description": "",
+    "enabled": true,
+    "icon": "https://api.clients.dev.tolber.io/storage/apps/icons/app-1-62976a96f30df.png",
+    "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-1-61e1e1ccac997.svg",
+    "name": "Planning",
+    "version": "3.1.17"
+  },
+  {
+    "id": 2,
+    "application_status": {
+      "id": 20,
+      "name": "Published",
+      "published": true
+    },
+    "client_name": "inventory",
+    "description": "",
+    "enabled": false,
+    "icon": "https://api.clients.dev.tolber.io/storage/apps/icons/app-2-62976ac8d9f7c.png",
+    "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-2-61e1e3695e8cc.svg",
+    "name": "Inventory",
+    "version": "1.0.0"
+  },
+  {
+    "id": 3,
+    "application_status": {
+      "id": 30,
+      "name": "Unpublished",
+      "published": false
+    },
+    "client_name": "availability",
+    "description": "",
+    "enabled": false,
+    "icon": "https://api.clients.dev.tolber.io/storage/apps/icons/app-3-62976ad302e8a.png",
+    "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-3-61e1e39132ae5.svg",
+    "name": "Availability",
+    "version": "1.0.0"
+  },
+  {
+    "id": 4,
+    "application_status": {
+      "id": 40,
+      "name": "Unpublished",
+      "published": false
+    },
+    "client_name": "checking",
+    "description": "",
+    "enabled": false,
+    "icon": "https://api.clients.dev.tolber.io/storage/apps/icons/app-4-62976ada92795.png",
+    "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-4-61e1e3a234bf4.svg",
+    "name": "Checking",
+    "version": "1.0.0"
+  }
+]
