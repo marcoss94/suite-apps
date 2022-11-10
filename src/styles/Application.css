@@ -1,0 +1,68 @@
+button {
+  border: 1px solid #13023e;
+  background-color: transparent;
+  padding: 3px 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #13023e;
+  color: #fff;
+}
+
+button span {
+  margin-left: 4px;
+}
+
+.app.desactiva {
+  border: 1px solid #b0aeae;
+  box-shadow: none;
+  cursor: auto;
+}
+
+.app.desactiva:hover {
+  background-color: transparent;
+}
+
+.app {
+  background-color: #fff;
+  width: 200px;
+  height: 170px;
+  box-shadow: 0px 3px 40px #26262614;
+  border-radius: 2px;
+  transition: 500ms ease;
+  cursor: pointer;
+  padding: 24px;
+  margin-bottom: 12px;
+}
+
+.app span.icon img {
+  width: 56px;
+  height: 56px;
+}
+
+.app .logo {
+  margin-top: 12px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+.app .logo img {
+  height: 16px;
+}
+
+.app .coming-soon h5 {
+  color: #3b02bf;
+}
+
+.app h5 {
+  font-weight: 400;
+  margin-top: 15px;
+  color: #8c8c8c;
+}
+
+.app:hover {
+  background-color: #f5f5f5;
+}

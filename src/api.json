@@ -58,5 +58,20 @@
     "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-4-61e1e3a234bf4.svg",
     "name": "Checking",
     "version": "1.0.0"
+  },
+  {
+    "id": 5,
+    "application_status": {
+      "id": 40,
+      "name": "Unpublished",
+      "published": false
+    },
+    "client_name": "checking",
+    "description": "",
+    "enabled": false,
+    "icon": "https://api.clients.dev.tolber.io/storage/apps/icons/app-4-62976ada92795.png",
+    "logo": "https://api.clients.dev.tolber.io/storage/apps/logos/app-4-61e1e3a234bf4.svg",
+    "name": "Checking",
+    "version": "1.0.0"
   }
 ]
